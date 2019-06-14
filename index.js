@@ -2,7 +2,6 @@ var obj = { prop : 1 };
 
 var recipes = {};
 
-var newObj = {}
 var newObj = Object.assign({}, object)
 
 
